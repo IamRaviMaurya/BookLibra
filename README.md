@@ -1,2 +1,0 @@
-# BookLibra
-Book Library
